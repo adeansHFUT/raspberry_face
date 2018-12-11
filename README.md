@@ -1,4 +1,4 @@
-树莓派人脸识别
+树莓派人脸识别与搜索
 ==========
 基于[旷视科技](https://www.faceplusplus.com.cn/)face++的api
 ## 环境
